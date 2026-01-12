@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qing Wang"
 title_separator          : "-"
 name                     : &name "Qing Wang"
-description              : &description "Research Scientist @ SMU | PhD @ SMU"
+description              : &description "Research Scientist @ SMU"
 url                      : https://gzwq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/personal-page" # the subpath of your site, e.g. "/blog"
 repository               : #"buraksatar/buraksatar.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qing Wang"
   avatar           : "5V1A6374.jpg"
-  bio              : "Research Scientist @ SMU | PhD @ SMU"
+  bio              : "Research Scientist @ SMU"
   location         : "Singapore"
   employer         :
   pubmed           : 
