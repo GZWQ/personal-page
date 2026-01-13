@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Scientist at Singapore Management University (SMU), working under the guidance of [Prof Chong-Wah Ngo](https://scholar.google.com/citations?user=HM39HrUAAAAJ&hl=en). My focus is on culturally aware multimodal Vision-Language Models (VLMs) with reasoning capabilities specific to Southeast Asia. <code style="color : LightSkyBlue">Reach out to me for collaboration on cultural context!</code>
+I am currently a Research Scientist at Singapore Management University (SMU), working under the guidance of [Prof Chong-Wah Ngo](https://scholar.google.com/citations?user=HM39HrUAAAAJ&hl=en). My research focuses on **multicultural, multilingual food image–recipe retrieval**, with an emphasis on mitigating biases arising from food images.
 
-I obtained my PhD from the College of Computing and Data Science (CCDS) at Nanyang Technological University (NTU) in Singapore, supported by the SINGA scholarship from the Institute for Infocomm Research (I2R), Agency for Science, Technology and Research (A\*STAR). My doctoral research focused on **Towards Semantic, Debiased and Moment Video Retrieval with Multi-modal Features** conducted under the supervision of [Prof. Joo Hwee Lim](https://scholar.google.com/citations?user=BjEDX4EAAAAJ&hl=en), [Dr Hongyuan Zhu](https://hongyuanzhu.github.io/) and [Prof. Hanwang Zhang](https://scholar.google.com.sg/citations?user=YG0DFyYAAAAJ&hl=en&inst=14102473421921925766). During my PhD studies, I had the opportunity to visit the University of Bristol, in the UK, collaborating with [Prof. Michael Wray](https://scholar.google.com/citations?user=gFQcKZMAAAAJ&hl=en&oi=ao&inst=14102473421921925766) in Dima Damen's research group. I completed my Master’s degree under the guidance of [Prof. Ahmet Emir Dirik](https://scholar.google.com/citations?user=cfgcBIEAAAAJ&hl=tr), specializing in vehicle detection. My professional experiences span a range of roles, including work at a start-up in Istanbul, Turkish Airlines Technology, and an internship at the University of Valencia. Additionally, I have provided advisory support to two award-winning start-ups located in London and Istanbul.
+I obtained my PhD from the School of Computing and Information Systems at Singapore Management University (SMU), Singapore. My doctoral research focused on food computing, particularly **fine-grained food recognition** and **causality-driven cross-modal, cross-lingual food image–recipe retrieval**, under the supervision of [Prof Chong-Wah Ngo](https://scholar.google.com/citations?user=HM39HrUAAAAJ&hl=en). I completed my Master’s degree at Louisiana State University (LSU) under the guidance of [Prof. Mingxuan Sun](http://csc.lsu.edu/~msun/), where I specialized in image generative models.
 
 Recent News
 ======
-* 10/2025: Another paper is submitted.
-* 08/2025: A paper is accepted to EMNLP 2025!
+* 07/2025: A paper is accepted to MM 2025!
 * 03/2025: Started to work as a Research Scientist at SMU.
 
 <span style="color:blue"> -------------------------------------------------------------------------------------------------- </span>
@@ -86,7 +85,7 @@ ICIP 2021 Full Paper (Oral presentation) and [ICCV Workshop 2021](https://sites.
 # Research during Master's Study
 
 <img src="https://buraksatar.github.io/images/icann'18.png" alt="Detection and classification method" width="250"/> \\
-**Human Action Image Generation with Differential Privacy** \\
+Human Action Image Generation with Differential Privacy \\ 
 
 Mingxuan Sun, **Qing Wang**, Zicheng Liu \\
 2020 IEEE International Conference on Multimedia and Expo (ICME) \\
