@@ -23,17 +23,12 @@ Publications
 ======
 # Research during Post-Doctoral Work
 
-<img src="https://seeingculture-benchmark.github.io/static/images/teaser.png" alt="Seeing Culture Benchmark" width="700"/>
+<img src="https://gzwq.github.io/personal-page/images/multicultural-sample.png" alt="Seeing Culture Benchmark" width="700"/>
 
-**Seeing Culture: A Benchmark for Visual Reasoning and Grounding** \\
-**Burak Satar\***, Zhixin Ma\*, Patrick Amadeus Irawan, Wilfried Ariel Mulyawan, Jing Jiang, Ee-Peng Lim, Chong-Wah Ngo \\
-EMNLP 2025 Main Conference \\
-[[Project Website](https://seeingculture-benchmark.github.io/)] [[Paper](https://aclanthology.org/2025.emnlp-main.1131)] [[arXiv](https://arxiv.org/abs/2509.16517)] [[Code](https://github.com/buraksatar/seeingculture)] [[🤗 Dataset](https://huggingface.co/datasets/Multimedia-SMU/seeingculture-benchmark)]
-
-**Retrieval Augmented Reasoning Segmentation in Cultural Context** \\
-Zhixin Ma\*, **Burak Satar\***, Patrick Amadeus Irawan, Wilfried Ariel Mulyawan, Phuong Anh Nguyen, Chong-Wah Ngo \\
-Under peer review \\
-[arXiv] (link to be updated)
+**Mitigating Cross-modal Representation Bias for Multicultural Image-to-Recipe Retrieval** \\
+**Qing Wang**, Chong-Wah Ngo, Yu Cao, Ee-Peng Lim \\
+MM '25: Proceedings of the 33rd ACM International Conference on Multimedia \\
+[[Project Website](https://seeingculture-benchmark.github.io/)] [[Paper](https://dl.acm.org/doi/epdf/10.1145/3746027.3755583)] [[arXiv](https://arxiv.org/pdf/2510.20393)] [[Code](https://github.com/GZWQ/multilingual-image-recipe-retrieval)] [[🤗 Dataset](https://huggingface.co/datasets/Multimedia-SMU/multilingual-image-recipe-retrieval)]
 
 # Research during Doctoral Study
 ## PhD Research Topic 2: Debiased Food Image-Recipe Retrieval
