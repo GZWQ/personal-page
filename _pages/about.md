@@ -19,9 +19,11 @@ Recent News
 
 <span style="color:blue"> -------------------------------------------------------------------------------------------------- </span>
 
-Publications
-======
-# Research during Post-Doctoral Work
+# Publications
+
+## Research during Post-Doctoral Work
+
+
 
 <img src="https://gzwq.github.io/personal-page/images/multicultural-sample.png" alt="Multicultural multilingual food recipes" width="700"/>
 
