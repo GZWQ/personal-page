@@ -23,12 +23,12 @@ Publications
 ======
 # Research during Post-Doctoral Work
 
-<img src="https://gzwq.github.io/personal-page/images/multicultural-sample.png" alt="Seeing Culture Benchmark" width="700"/>
+<img src="https://gzwq.github.io/personal-page/images/multicultural-sample.png" alt="Multicultural multilingual food recipes" width="700"/>
 
 **Mitigating Cross-modal Representation Bias for Multicultural Image-to-Recipe Retrieval** \\
 **Qing Wang**, Chong-Wah Ngo, Yu Cao, Ee-Peng Lim \\
 MM '25: Proceedings of the 33rd ACM International Conference on Multimedia \\
-[[Project Website](https://seeingculture-benchmark.github.io/)] [[Paper](https://dl.acm.org/doi/epdf/10.1145/3746027.3755583)] [[arXiv](https://arxiv.org/pdf/2510.20393)] [[Code](https://github.com/GZWQ/multilingual-image-recipe-retrieval)] [[🤗 Dataset](https://huggingface.co/datasets/Multimedia-SMU/multilingual-image-recipe-retrieval)]
+[[Project Website](https://gzwq.github.io/mitigating-bias-in-multicultural-reciep-retrieval/)] [[Paper](https://dl.acm.org/doi/epdf/10.1145/3746027.3755583)] [[arXiv](https://arxiv.org/pdf/2510.20393)] [[Code](https://github.com/GZWQ/multilingual-image-recipe-retrieval)] [[🤗 Dataset](https://huggingface.co/datasets/Multimedia-SMU/multilingual-image-recipe-retrieval)]
 
 # Research during Doctoral Study
 ## PhD Research Topic 2: Debiased Food Image-Recipe Retrieval
