@@ -38,14 +38,14 @@ Under peer review \\
 # Research during Doctoral Study
 ## PhD Research Topic 2: Debiased Food Image-Recipe Retrieval
 
-<img src="https://gzwq.github.io/personal-page/images/ing_causal_graph.png" alt="Structural Causal Model" width="400"/> \\
+<img src="https://gzwq.github.io/personal-page/images/ingact_causal_graph.png" alt="Structural Causal Model" width="500"/> \\
 **Towards Unbiased Cross-Modal Representation Learning for Food Image-to-Recipe Retrieval** \\
 **Qing Wang**, Chong-Wah Ngo, Ee-Peng Lim \\
 [[arXiv](https://arxiv.org/pdf/2511.15201)] [[Girhub](https://github.com/GZWQ/Towards-Unbiased-Cross-Modal-Representation-Learning-for-Food-Image-to-Recipe-Retrieval)]
 
 ## PhD Research Topic 1: Domain Adaptation in Long-tailed Food Recognition
 
-<img src="https://gzwq.github.io/personal-page/images/challenges_in_food_recognition.png" alt="Overview of our model on food recognition" width="500"/>
+<img src="https://gzwq.github.io/personal-page/images/challenges_in_food_recognition.png" alt="Overview of our model on food recognition" width="550"/>
 
 **LLMs-based Augmentation for Domain Adaptation in Long-tailed Food Datasets** \\
 **Qing Wang**, Chong-Wah Ngo, Ee-Peng Lim, Qianru Sun \\
