@@ -19,9 +19,7 @@ Recent News
 
 <span style="color:blue"> -------------------------------------------------------------------------------------------------- </span>
 
-# Publications
-
-## Research during Post-Doctoral Work
+# Research during Post-Doctoral Work
 
 
 
