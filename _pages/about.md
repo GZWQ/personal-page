@@ -84,9 +84,8 @@ ICIP 2021 Full Paper (Oral presentation) and [ICCV Workshop 2021](https://sites.
 
 # Research during Master's Study
 
-<img src="https://buraksatar.github.io/images/icann'18.png" alt="Detection and classification method" width="250"/> \\
-Human Action Image Generation with Differential Privacy \\ 
-
+<img src="https://github.com/GZWQ/personal-page/blob/main/images/ms1.png" alt="Detection and classification method" width="250"/> \\
+**Human Action Image Generation with Differential Privacy** \\
 Mingxuan Sun, **Qing Wang**, Zicheng Liu \\
 2020 IEEE International Conference on Multimedia and Expo (ICME) \\
 [[paper](https://par.nsf.gov/servlets/purl/10283631)] 
