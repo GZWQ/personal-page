@@ -47,7 +47,7 @@ M Furkan Ilaslan, Ali Koksal, Kevin Qinghong Lin, **Burak Satar**, Mike Zheng Sh
 AAAI 2025 Full Paper \\
 [[arXiv](https://arxiv.org/abs/2412.11621)] [[Dataset Link](https://drive.google.com/drive/folders/1-Lka5F-Dh-Fz6CwHDJYjUqieXlt2GCR6)] [[Github](https://github.com/mfurkanilaslan/VG-TVP?tab=readme-ov-file)]
 
-## PhD Research Topic 2: Debiased Text-to-Video Retrieval
+## PhD Research Topic 2: Debiased Food Image-Recipe Retrieval
 
 <img src="https://buraksatar.github.io/images/scm_camready.png" alt="Structural Causal Model" width="400"/> \\
 **Towards Debiasing Frame Length Bias in Text-Video Retrieval via Causal Intervention** \\
@@ -72,7 +72,7 @@ MultiMedia Modeling: 31st International Conference on Multimedia Modeling, MMM 2
 
 # Research during Master's Study
 
-<img src="https://gzwq.github.io/personal-page/images/ms1.png" alt="A two-stage generation framework" width="250"/> \\
+<img src="https://gzwq.github.io/personal-page/images/challenges_in_food_recognition.png" alt="A two-stage generation framework" width="250"/> \\
 **Human Action Image Generation with Differential Privacy** \\
 Mingxuan Sun, **Qing Wang**, Zicheng Liu \\
 2020 IEEE International Conference on Multimedia and Expo (ICME) \\
