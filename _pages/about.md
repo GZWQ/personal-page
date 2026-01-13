@@ -63,7 +63,7 @@ CVPR Workshop 2023, [Joint Ego4d/EPIC Workshop](https://sites.google.com/view/eg
 
 ## PhD Research Topic 1: Domain Adaptation in Long-tailed Food Recognition
 
-<img src="../images/framework_tgt.png" alt="Overview of our model on food recognition" width="400"/>
+<img src="https://gzwq.github.io/personal-page/images/framework_tgt.png" alt="Overview of our model on food recognition" width="400"/>
 
 **LLMs-based Augmentation for Domain Adaptation in Long-tailed Food Datasets** \\
 **Qing Wang**, Chong-Wah Ngo, Ee-Peng Lim, Qianru Sun \\
@@ -72,7 +72,7 @@ MultiMedia Modeling: 31st International Conference on Multimedia Modeling, MMM 2
 
 # Research during Master's Study
 
-<img src="../images/ms1.png" alt="A two-stage generation framework" width="250"/> \\
+<img src="https://gzwq.github.io/personal-page/images/ms1.png" alt="A two-stage generation framework" width="250"/> \\
 **Human Action Image Generation with Differential Privacy** \\
 Mingxuan Sun, **Qing Wang**, Zicheng Liu \\
 2020 IEEE International Conference on Multimedia and Expo (ICME) \\
