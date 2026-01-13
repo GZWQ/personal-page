@@ -36,30 +36,12 @@ Under peer review \\
 [arXiv] (link to be updated)
 
 # Research during Doctoral Study
-## PhD Research Topic 3: Multimodal and Generative Video/Moment Retrieval
-
-**Video Corpus Moment Retrieval in Long Ego-centric Videos with LLM and Audio Fusion** \\
-**Burak Satar**, Joo Hwee Lim, Hanwang Zhang, M Furkan Ilaslan, Hongyuan Zhu, Michael Wray \\
-(Under development)
-
-**VG-TVP: Multimodal Procedural Planning via Visually Grounded Text-Video Prompting** \\
-M Furkan Ilaslan, Ali Koksal, Kevin Qinghong Lin, **Burak Satar**, Mike Zheng Shou, Qianli Xu \\
-AAAI 2025 Full Paper \\
-[[arXiv](https://arxiv.org/abs/2412.11621)] [[Dataset Link](https://drive.google.com/drive/folders/1-Lka5F-Dh-Fz6CwHDJYjUqieXlt2GCR6)] [[Github](https://github.com/mfurkanilaslan/VG-TVP?tab=readme-ov-file)]
-
 ## PhD Research Topic 2: Debiased Food Image-Recipe Retrieval
 
-<img src="https://buraksatar.github.io/images/scm_camready.png" alt="Structural Causal Model" width="400"/> \\
-**Towards Debiasing Frame Length Bias in Text-Video Retrieval via Causal Intervention** \\
-**Burak Satar**, Zhu Hongyuan, Hanwang Zhang, Joo-Hwee Lim \\
-BMVC 2023 Full Paper, (Poster presentation) \\
-[[arXiv](https://arxiv.org/abs/2309.09311)] [[YouTube Ppt](https://youtu.be/aMhNvTCkT8Y)] [[Poster](https://drive.google.com/file/d/10aXgkCl4PowFelEOyxJp4X90cTtub6Pt/view?usp=sharing)] [[Project Page](https://buraksatar.github.io/FrameLengthBias/)]
-
-<img src="https://buraksatar.github.io/images/cvpr'23_workshop.png" alt="An Overview of Challenges" width="400"/> \\
-**An Overview of Challenges in Egocentric Text-Video Retrieval** \\
-**Burak Satar**, Zhu Hongyuan, Hanwang Zhang, Joo-Hwee Lim \\
-CVPR Workshop 2023, [Joint Ego4d/EPIC Workshop](https://sites.google.com/view/ego4d-epic-cvpr2023-workshop/) (Oral presentation) \\
-[[Extended Abstract](https://arxiv.org/abs/2306.04345)] [[YouTube Ppt](https://youtu.be/XnUMScoOPvM)]
+<img src="https://gzwq.github.io/personal-page/images/ing_causal_graph.png" alt="Structural Causal Model" width="400"/> \\
+**Towards Unbiased Cross-Modal Representation Learning for Food Image-to-Recipe Retrieval** \\
+**Qing Wang**, Chong-Wah Ngo, Ee-Peng Lim \\
+[[arXiv](https://arxiv.org/pdf/2511.15201)] [[Girhub](https://github.com/GZWQ/Towards-Unbiased-Cross-Modal-Representation-Learning-for-Food-Image-to-Recipe-Retrieval)]
 
 ## PhD Research Topic 1: Domain Adaptation in Long-tailed Food Recognition
 
@@ -72,7 +54,7 @@ MultiMedia Modeling: 31st International Conference on Multimedia Modeling, MMM 2
 
 # Research during Master's Study
 
-<img src="https://gzwq.github.io/personal-page/images/generation_comparison.png" alt="Challenges in food recognition" width="500"/> \\
+<img src="https://gzwq.github.io/personal-page/images/generation_comparison.png" alt="Image privacy protection comparison" width="300"/> \\
 **Human Action Image Generation with Differential Privacy** \\
 Mingxuan Sun, **Qing Wang**, Zicheng Liu \\
 2020 IEEE International Conference on Multimedia and Expo (ICME) \\
