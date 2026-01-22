@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Scientist at Singapore Management University (SMU), working under the guidance of [Prof Chong-Wah Ngo](https://scholar.google.com/citations?user=HM39HrUAAAAJ&hl=en). My research focuses on **multicultural, multilingual food image–recipe retrieval**, with an emphasis on mitigating biases arising from food images.
+I am currently a Research Scientist at Singapore Management University (SMU), working together with [Prof Chong-Wah Ngo](https://scholar.google.com/citations?user=HM39HrUAAAAJ&hl=en). My research focuses on **multicultural, multilingual food image–recipe retrieval**, with an emphasis on mitigating biases arising from food images.
 
 I obtained my PhD from the School of Computing and Information Systems at Singapore Management University (SMU), Singapore. My doctoral research focused on food computing, particularly **fine-grained food recognition** and **causality-driven cross-modal, cross-lingual food image–recipe retrieval**, under the supervision of [Prof Chong-Wah Ngo](https://scholar.google.com/citations?user=HM39HrUAAAAJ&hl=en). I completed my Master’s degree at Louisiana State University (LSU) under the guidance of [Prof. Mingxuan Sun](http://csc.lsu.edu/~msun/), where I specialized in image generative models.
 
